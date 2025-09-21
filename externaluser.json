@@ -3,15 +3,8 @@
     "freepanel": {
       "password": "byinsane",
       "hwid": "free",
-      "expiryDate": "2025-09-15",
+      "expiryDate": "No Expiry",
       "creationDate": "2025-05-08 13:04:16",
       "lastUsed": "2025-09-12 19:56:04"
   },
-  "insane": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-08 13:04:16",
-      "lastUsed": "2025-09-21 12:15:20"
-    }
 }
