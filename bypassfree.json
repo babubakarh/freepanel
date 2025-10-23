@@ -9,13 +9,6 @@
     }
   },
   "INSANE": {
-    "dailybypass": {
-      "password": "123",
-      "hwid": "free",
-      "expiryDate": "2025-10-22 22:01:20",
-      "creationDate": "2025-10-21 21:01:25",
-      "lastUsed": "2025-10-22 18:53:20"
-    },
     "romi": {
       "password": "1",
       "hwid": "943B6C00-509C-11E4-A472-A0D3C14B0136",
